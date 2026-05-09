@@ -1,3 +1,4 @@
+
 #include<iostream>
 using namespace std;
 
@@ -30,3 +31,7 @@ int main(){
     area(r2);
     return 0;
 }
+
+
+
+
